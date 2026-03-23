@@ -11,7 +11,7 @@
 ## 🙋‍♂️ About Me
 
 🎓 Pursuing **M.Sc.** from **BITS Pilani in Data Science and AI** — one of India's premier institutions  
-💼 Currently working as a **Freelance Data Analyst** at **Kalindi Solar Pvt. Ltd.**, building ETL pipelines and data warehouses from scratch  
+💼 Currently working as a **Freelancer** at **Kalindi Solar Pvt. Ltd.** and focusing on tools and technologies to upgrade myself
 🤖 Building a **Text-to-SQL** tool that lets non-technical users query databases in plain English using NLP & Python  
 🎯 Actively seeking **full-time Data Analyst roles** in **Mumbai | Bengaluru | Pune**
 
